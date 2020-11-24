@@ -1,6 +1,6 @@
 # COVID19-Tracker
 # https://covid19-tracker-sa.netlify.app/
-Building COVID19-Tracker Application using React, Leaflet-map, Chart.js
+Building COVID19-Tracker Application using `React`, `Leaflet-map`, `Chart.js`
 
 
 
